@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 12945093_project_proposal.aux
+The style file: plainnat.bst
+Database file #1: research_project.bib
+Warning--entry type for "europa-migration-statistics" isn't style-file defined
+--line 1 of file research_project.bib
+Warning--entry type for "oecd" isn't style-file defined
+--line 10 of file research_project.bib
+Warning--entry type for "ined" isn't style-file defined
+--line 21 of file research_project.bib
+Warning--entry type for "govuk" isn't style-file defined
+--line 28 of file research_project.bib
+Warning--to sort, need author or key in europa-migration-statistics
+Warning--to sort, need author or key in oecd
+Warning--to sort, need author or key in ined
+Warning--to sort, need author or key in govuk
+Warning--empty journal in immigration-1986
+You've used 7 entries,
+            2773 wiz_defined-function locations,
+            624 strings with 7022 characters,
+and the built_in function-call counts, 1904 in all, are:
+= -- 172
+> -- 30
+< -- 3
++ -- 16
+- -- 9
+* -- 105
+:= -- 238
+add.period$ -- 23
+call.type$ -- 7
+change.case$ -- 19
+chr.to.int$ -- 7
+cite$ -- 23
+duplicate$ -- 114
+empty$ -- 235
+format.name$ -- 12
+if$ -- 430
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 3
+newline$ -- 45
+num.names$ -- 12
+pop$ -- 86
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 95
+stack$ -- 0
+substring$ -- 18
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 72
+warning$ -- 5
+while$ -- 9
+width$ -- 0
+write$ -- 90
+(There were 9 warnings)

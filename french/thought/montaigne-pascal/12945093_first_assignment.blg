@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 12945093_first_assignment.aux
+The style file: plainnat.bst
+Database file #1: first_assignment.bib
+Warning--entry type for "govuk-hse-school" isn't style-file defined
+--line 56 of file first_assignment.bib
+Warning--entry type for "dfe-class-size" isn't style-file defined
+--line 63 of file first_assignment.bib
+Warning--entry type for "hk-anecdote-class-size" isn't style-file defined
+--line 81 of file first_assignment.bib
+Warning--entry type for "fiche-bac" isn't style-file defined
+--line 93 of file first_assignment.bib
+Warning--empty journal in barragan2008bienestar
+Warning--empty publisher in montaigne-seop
+You've used 15 entries,
+            2773 wiz_defined-function locations,
+            685 strings with 7283 characters,
+and the built_in function-call counts, 5576 in all, are:
+= -- 492
+> -- 243
+< -- 14
++ -- 87
+- -- 72
+* -- 388
+:= -- 869
+add.period$ -- 49
+call.type$ -- 15
+change.case$ -- 65
+chr.to.int$ -- 15
+cite$ -- 32
+duplicate$ -- 283
+empty$ -- 527
+format.name$ -- 97
+if$ -- 1171
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 13
+newline$ -- 86
+num.names$ -- 60
+pop$ -- 153
+preamble$ -- 1
+purify$ -- 54
+quote$ -- 0
+skip$ -- 220
+stack$ -- 0
+substring$ -- 144
+swap$ -- 14
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 155
+warning$ -- 2
+while$ -- 54
+width$ -- 0
+write$ -- 199
+(There were 6 warnings)

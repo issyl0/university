@@ -1,0 +1,61 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Dictionary(2015{\natexlab{a}})]{oed-lexicon}
+Oxford~English Dictionary.
+\newblock \emph{Definition: ``Lexicon''}.
+\newblock 2015{\natexlab{a}}.
+
+\bibitem[Dictionary(2015{\natexlab{b}})]{oed-neologism}
+Oxford~English Dictionary.
+\newblock \emph{Definition: ``Neologism''}.
+\newblock 2015{\natexlab{b}}.
+
+\bibitem[Fishman(1974)]{language-planning-detrimental}
+J.A. Fishman.
+\newblock \emph{Advances in {L}anguage {P}lanning}.
+\newblock Contributions to the Sociology of Language [CSL]. De Gruyter, 1974.
+\newblock ISBN 9783111583600.
+
+\bibitem[Grzech(2013)]{soas-language-planning}
+Karolina Grzech.
+\newblock Planning {L}anguage, {P}lanning {I}dentity: A case study of
+  {E}cuadorians in {L}ondon.
+\newblock 2013.
+
+\bibitem[Haugen(1987)]{haugen-planning}
+Einar Haugen.
+\newblock Language {P}lanning.
+\newblock \emph{Sociolinguistics}, 1:\penalty0 626--637, 1987.
+
+\bibitem[Johnson and Swain(1997)]{immersion-education}
+R.K. Johnson and M.~Swain.
+\newblock \emph{Immersion Education: International Perspectives}.
+\newblock Cambridge Applied Linguistics. Cambridge University Press, 1997.
+\newblock ISBN 9780521586559.
+
+\bibitem[Kaplan and Baldauf(1997)]{language-kaplan}
+R.B. Kaplan and R.B. Baldauf.
+\newblock \emph{Language Planning from Practice to Theory}.
+\newblock Language Planning from Practice to Theory. Multilingual Matters,
+  1997.
+\newblock ISBN 9781853593710.
+
+\bibitem[Lockheed et~al.(1991)Lockheed, Verspoor,
+  et~al.]{developing-countries-primary-education}
+Marlaine~E Lockheed, Adriaan~M Verspoor, et~al.
+\newblock \emph{Improving primary education in developing countries.}
+\newblock Oxford University Press for World Bank, 1991.
+
+\bibitem[Mesthrie et~al.(2009)Mesthrie, Swann, Deumert, and
+  Leap]{sociolinguistics-mesthrie}
+R.~Mesthrie, J.~Swann, A.~Deumert, and L.~W. Leap.
+\newblock \emph{Introducing Sociolinguistics}.
+\newblock Edinburgh University Press, 2009.
+\newblock ISBN 9780748638444.
+
+\end{thebibliography}

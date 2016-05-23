@@ -1,0 +1,43 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chappell(2005)]{muriel-blog}
+C-J. Chappell.
+\newblock Muriel: The {T}ime of {R}eturn, 2005.
+\newblock URL
+  \url{http://sensesofcinema.com/2005/european-cinema-revisited/muriel-2/}.
+
+\bibitem[Dictionary(2015)]{oed-morality}
+Oxford~English Dictionary.
+\newblock \emph{Definition: ``Morality''}.
+\newblock 2015.
+
+\bibitem[Jaspe(2014)]{cache-meanings}
+Phoebe Jaspe.
+\newblock Narrative {M}eanings and {I}mplicit {T}hemes in {H}aneke's film
+  'caché' (2005).
+\newblock \emph{Enquiry-The ACES Journal of Undergraduate Research}, 4, 2014.
+
+\bibitem[Plantinga and Smith(1999)]{film-cognition}
+Carl~R. Plantinga and Greg~M. Smith.
+\newblock \emph{{P}assionate {V}iews: Film, {C}ognition, and {E}motion}.
+\newblock Johns Hopkins University Press, 1999.
+
+\bibitem[Price and Rhodes(2010)]{on-haneke}
+B.~Price and J.D. Rhodes.
+\newblock \emph{On Michael Haneke}.
+\newblock Contemporary Film and Television Series. Wayne State University
+  Press, 2010.
+\newblock ISBN 9780814334058.
+
+\bibitem[Wheatley(2012)]{cache-book}
+C.~Wheatley.
+\newblock \emph{Cach\'{e} (Hidden)}.
+\newblock BFI Film Classics. Palgrave Macmillan, 2012.
+\newblock ISBN 9781844575725.
+
+\end{thebibliography}

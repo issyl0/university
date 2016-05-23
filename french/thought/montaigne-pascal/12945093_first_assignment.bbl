@@ -1,0 +1,99 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bac.(2015)]{fiche-bac}
+Fiches Bac., 2015.
+\newblock URL
+  \url{http://1erl2-egalois.forumactif.com/t46-fiche-bac-8-10-montaigne-de-l-institution-des-enfants}.
+
+\bibitem[Baikie and Wilhelm(2005)]{baikie2005emotional}
+Karen~A Baikie and Kay Wilhelm.
+\newblock Emotional and {P}hysical {H}ealth {B}enefits of {E}xpressive
+  {W}riting.
+\newblock \emph{Advances in Psychiatric Treatment}, 11\penalty0 (5):\penalty0
+  338--346, 2005.
+
+\bibitem[Barragan(2008)]{barragan2008bienestar}
+Paola~Cubas Barragan.
+\newblock Bienestar y educacionna : una investigacion sobre la educacion basada
+  en valores.
+\newblock 2008.
+
+\bibitem[Bussey(1992)]{lying-unhappy}
+Kay Bussey.
+\newblock Lying and {T}ruthfulness: {C}hildren's {D}efinitions, {S}tandards,
+  and {E}valuative {R}eactions.
+\newblock \emph{Child Development}, 63\penalty0 (1):\penalty0 129--137, 1992.
+\newblock ISSN 1467-8624.
+\newblock \doi{10.1111/j.1467-8624.1992.tb03601.x}.
+\newblock URL \url{http://dx.doi.org/10.1111/j.1467-8624.1992.tb03601.x}.
+
+\bibitem[DePaulo et~al.(1996)DePaulo, Kashy, Kirkendol, Wyer, and
+  Epstein]{lying-better}
+Bella~M DePaulo, Deborah~A Kashy, Susan~E Kirkendol, Melissa~M Wyer, and
+  Jennifer~A Epstein.
+\newblock Lying in everyday life.
+\newblock \emph{Journal of personality and social psychology}, 70\penalty0
+  (5):\penalty0 979, 1996.
+
+\bibitem[Ediger(1997)]{recent-relevance}
+Marlow Ediger.
+\newblock Influence of {T}en {L}eading {E}ducators on {A}merican {E}ducation.
+\newblock \emph{Education}, 118\penalty0 (2):\penalty0 267, 1997.
+
+\bibitem[Foglia(2014)]{montaigne-seop}
+Marc Foglia.
+\newblock Michel de {M}ontaigne.
+\newblock In \emph{The Stanford Encyclopedia of Philosophy}. 2014.
+
+\bibitem[for {E}ducation(2011)]{dfe-class-size}
+Department for {E}ducation.
+\newblock Class size and education in {E}ngland: evidence report, 2011.
+\newblock URL
+  \url{https://www.gov.uk/government/publications/class-size-and-education-in-england-evidence-report}.
+
+\bibitem[Friedrich and Desan(1991)]{friedrich1991montaigne}
+Hugo Friedrich and Philippe Desan.
+\newblock \emph{Montaigne}.
+\newblock Univ of California Press, 1991.
+
+\bibitem[GOV.UK(2015)]{govuk-hse-school}
+GOV.UK.
+\newblock Health and safety for school children, 2015.
+\newblock URL \url{https://www.gov.uk/health-safety-school-children}.
+
+\bibitem[Holden and Schmit(2002)]{holden2002inquiry}
+James Holden and John~S Schmit.
+\newblock \emph{Inquiry and the {L}iterary {T}ext: {C}onstructing {D}iscussions
+  in the {E}nglish {C}lassroom. {C}lassroom {P}ractices in {T}eaching
+  {E}nglish.}
+\newblock ERIC, 2002.
+
+\bibitem[Khattak and Ashfaq(2014)]{khattak2014morality}
+Nasir~Jamal Khattak and Samina Ashfaq.
+\newblock Morality and the {P}arameters of {H}appiness.
+\newblock \emph{PUTAJ Humanities and Social Sciences}, 21\penalty0 (1), 2014.
+
+\bibitem[Krassel and Heinesen(2014)]{krassel2014class}
+Karl~Fritjof Krassel and Eskil Heinesen.
+\newblock Class-size effects in secondary school.
+\newblock \emph{Education Economics}, 22\penalty0 (4):\penalty0 412--426, 2014.
+
+\bibitem[Michalos(2007)]{happiness-education}
+Alex~C. Michalos.
+\newblock Education, {H}appiness and {W}ellbeing.
+\newblock \emph{Social Indicators Research}, 87\penalty0 (3):\penalty0
+  347--366, 2007.
+\newblock \doi{10.1007/s11205-007-9144-0}.
+\newblock URL \url{http://dx.doi.org/10.1007/s11205-007-9144-0}.
+
+\bibitem[Zhao(2015)]{hk-anecdote-class-size}
+Shirley Zhao, 2015.
+\newblock URL
+  \url{http://www.scmp.com/news/hong-kong/education-community/article/1864767/small-classes-leads-focused-teachers-leading}.
+
+\end{thebibliography}

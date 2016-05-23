@@ -1,0 +1,37 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[pal(2013)]{palme-dor}
+2013.
+\newblock URL
+  \url{http://variety.com/2013/film/news/cannes-blue-is-the-warmest-color-wins-palme-d-or-1200488202/}.
+
+\bibitem[Buss(1994)]{desire-evolution}
+DM~Buss.
+\newblock The evolution of desire: {H}uman mating strategies, 1994.
+
+\bibitem[Child(2013)]{author-interview}
+B.~Child, 2013.
+\newblock URL
+  \url{http://www.theguardian.com/film/2013/may/30/blue-warmest-colour-porn-julie-maroh}.
+
+\bibitem[Hattenstone(2013)]{reshoot-scenes}
+S.~Hattenstone, 2013.
+\newblock URL
+  \url{http://www.theguardian.com/film/2013/oct/26/adele-exarchopoulos-blue-warmest-colour}.
+
+\bibitem[Institute(2013)]{contempt-nakedness-addition}
+British~Film Institute, 2013.
+\newblock URL \url{http://www.bfi.org.uk/films-tv-people/4ce2b6b049967}.
+
+\bibitem[Schroeder(2015)]{stanford-desire}
+Tim Schroeder.
+\newblock Desire.
+\newblock 2015.
+\newblock URL \url{http://plato.stanford.edu/archives/sum2015/entries/desire/}.
+
+\end{thebibliography}

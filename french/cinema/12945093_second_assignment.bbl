@@ -1,0 +1,57 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[ear(2013)]{earth-formation}
+2013.
+\newblock URL \url{http://www.space.com/19175-how-was-earth-formed.html}.
+
+\bibitem[bio(2016)]{bioprinting}
+2016.
+\newblock URL
+  \url{http://www.wakehealth.edu/Research/WFIRM/Our-Story/Inside-the-Lab/Bioprinting.htm}.
+
+\bibitem[imd(2016{\natexlab{a}})]{imdb-demonlover}
+2016{\natexlab{a}}.
+\newblock URL \url{http://www.imdb.com/title/tt0284034/}.
+
+\bibitem[imd(2016{\natexlab{b}})]{imdb-fifth-element}
+2016{\natexlab{b}}.
+\newblock URL \url{http://www.imdb.com/title/tt0119116/}.
+
+\bibitem[Burke and Gunnell(2008)]{african-erosion}
+Kevin Burke and Yanni Gunnell.
+\newblock The {A}frican erosion surface: a continental-scale synthesis of
+  geomorphology, tectonics, and environmental change over the past 180 million
+  years.
+\newblock \emph{Geological Society of America Memoirs}, 201:\penalty0 1--66,
+  2008.
+
+\bibitem[Evans(2001)]{digital-escapism}
+Andrew Evans.
+\newblock \emph{This virtual life: {E}scapism and simulation in our media
+  world}.
+\newblock Fusion Press, 2001.
+
+\bibitem[for Economic Co-operation and Development(2013)]{oecd-skills}
+Organisation for Economic Co-operation and Development, 2013.
+\newblock URL \url{http://skills.oecd.org/OECD_Skills_Outlook_2013.pdf}.
+
+\bibitem[Schneier(2005)]{schneier2005two}
+Bruce Schneier.
+\newblock Two-factor authentication: too little, too late.
+\newblock \emph{Commun. ACM}, 48\penalty0 (4):\penalty0 136, 2005.
+
+\bibitem[Schofield(2012)]{bbc-minitel-retire}
+Hugh Schofield, 2012.
+\newblock URL \url{http://www.bbc.co.uk/news/magazine-18610692}.
+
+\bibitem[Sugimoto(2014)]{japanese-society}
+Yoshio Sugimoto.
+\newblock \emph{An introduction to Japanese society}.
+\newblock Cambridge University Press, 2014.
+
+\end{thebibliography}

@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 12945093_first_assignment.aux
+The style file: plainnat.bst
+Database file #1: first_assignment.bib
+Warning--entry type for "palme-dor" isn't style-file defined
+--line 1 of file first_assignment.bib
+Warning--entry type for "reshoot-scenes" isn't style-file defined
+--line 6 of file first_assignment.bib
+Warning--entry type for "contempt-nakedness-addition" isn't style-file defined
+--line 29 of file first_assignment.bib
+Warning--entry type for "author-interview" isn't style-file defined
+--line 35 of file first_assignment.bib
+Warning--to sort, need author or key in palme-dor
+Warning--empty journal in stanford-desire
+You've used 6 entries,
+            2773 wiz_defined-function locations,
+            617 strings with 5563 characters,
+and the built_in function-call counts, 1716 in all, are:
+= -- 142
+> -- 50
+< -- 5
++ -- 21
+- -- 15
+* -- 92
+:= -- 248
+add.period$ -- 14
+call.type$ -- 6
+change.case$ -- 19
+chr.to.int$ -- 6
+cite$ -- 15
+duplicate$ -- 94
+empty$ -- 194
+format.name$ -- 20
+if$ -- 367
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 34
+num.names$ -- 20
+pop$ -- 72
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 91
+stack$ -- 0
+substring$ -- 13
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 66
+warning$ -- 2
+while$ -- 15
+width$ -- 0
+write$ -- 69
+(There were 6 warnings)

@@ -1,0 +1,42 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[oec(2000--2013)]{oecd}
+2000--2013.
+\newblock URL \url{https://stats.oecd.org/Index.aspx?DataSetCode=MIG}.
+
+\bibitem[ine(2007)]{ined}
+2007.
+\newblock URL
+  \url{https://www.ined.fr/en/everything_about_population/demographic-facts-sheets/faq/how-many-immigrants-france/}.
+
+\bibitem[eur(2015)]{europa-migration-statistics}
+2015.
+\newblock URL
+  \url{http://ec.europa.eu/eurostat/statistics-explained/index.php/Migration_and_migrant_population_statistics}.
+
+\bibitem[gov(2015)]{govuk}
+2015.
+\newblock URL \url{https://www.gov.uk/guidance/living-in-france}.
+
+\bibitem[Geddes(2008)]{immigrationeuropeanintegration}
+Andrew Geddes.
+\newblock \emph{Immigration and {E}uropean integration: beyond fortress
+  {E}urope?}
+\newblock Manchester Univ Pr, 2008.
+
+\bibitem[Le~Moigne(1986)]{immigration-1986}
+Guy Le~Moigne.
+\newblock \emph{Immigration in {F}rance}.
+\newblock Paris France Presses Universitaires de France, 1986.
+
+\bibitem[Sayad(2004)]{sayad2004suffering}
+Abdelmalek Sayad.
+\newblock \emph{The suffering of the immigrant}.
+\newblock Polity, 2004.
+
+\end{thebibliography}

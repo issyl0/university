@@ -1,0 +1,27 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bernico(2012)]{bernico}
+Matt Bernico, 2012.
+\newblock URL \url{https://mattbernico.com/2012/09/24/anti-oedipus-summary/}.
+
+\bibitem[Chang(2012)]{chang201223}
+Ha-Joon Chang.
+\newblock \emph{23 things they don't tell you about capitalism}.
+\newblock Bloomsbury Publishing USA, 2012.
+
+\bibitem[Choices(2014)]{schizophrenia}
+NHS Choices, 2014.
+\newblock URL
+  \url{http://www.nhs.uk/Conditions/Schizophrenia/Pages/Introduction.aspx}.
+
+\bibitem[Deleuze and Guattari(1972)]{deleuze-guattari}
+Gilles Deleuze and F{\'e}lix Guattari.
+\newblock Anti-oedipe (paris: Les {\'e}ditions de minuit, 1972).
+\newblock \emph{Anti-Oedipus, Capitalism and Schizophrenia}, 1972.
+
+\end{thebibliography}

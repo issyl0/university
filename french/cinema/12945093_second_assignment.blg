@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 12945093_second_assignment.aux
+The style file: plainnat.bst
+Database file #1: second_assignment.bib
+Warning--entry type for "imdb-fifth-element" isn't style-file defined
+--line 1 of file second_assignment.bib
+Warning--entry type for "imdb-demonlover" isn't style-file defined
+--line 6 of file second_assignment.bib
+Warning--entry type for "bioprinting" isn't style-file defined
+--line 11 of file second_assignment.bib
+Warning--entry type for "earth-formation" isn't style-file defined
+--line 16 of file second_assignment.bib
+Warning--entry type for "bbc-minitel-retire" isn't style-file defined
+--line 55 of file second_assignment.bib
+Warning--entry type for "oecd-skills" isn't style-file defined
+--line 61 of file second_assignment.bib
+Warning--to sort, need author or key in imdb-fifth-element
+Warning--to sort, need author or key in imdb-demonlover
+Warning--to sort, need author or key in bioprinting
+Warning--to sort, need author or key in earth-formation
+You've used 10 entries,
+            2773 wiz_defined-function locations,
+            634 strings with 5922 characters,
+and the built_in function-call counts, 2958 in all, are:
+= -- 255
+> -- 82
+< -- 6
++ -- 35
+- -- 24
+* -- 189
+:= -- 394
+add.period$ -- 24
+call.type$ -- 10
+change.case$ -- 30
+chr.to.int$ -- 9
+cite$ -- 28
+duplicate$ -- 170
+empty$ -- 341
+format.name$ -- 34
+if$ -- 652
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 6
+newline$ -- 52
+num.names$ -- 24
+pop$ -- 116
+preamble$ -- 1
+purify$ -- 28
+quote$ -- 0
+skip$ -- 146
+stack$ -- 0
+substring$ -- 49
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 100
+warning$ -- 4
+while$ -- 21
+width$ -- 0
+write$ -- 113
+(There were 10 warnings)

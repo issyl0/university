@@ -1,0 +1,66 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[oec(2000--2013)]{oecd}
+2000--2013.
+\newblock URL \url{https://stats.oecd.org/Index.aspx?DataSetCode=MIG}.
+\newblock \\\\L'OCDE est l'Organisation de Coopération et de Développement
+  Économiques. Il est un forum gouvernemental qui se charge d'améliorer les
+  vies (en pensant à la politique et aux personnes) le monde entier. Alors,
+  j'utiliserai ses chiffres et ces données pour comparer des années pour voir
+  des changements.
+
+\bibitem[ine(2007)]{ined}
+2007.
+\newblock URL
+  \url{https://www.ined.fr/en/everything_about_population/demographic-facts-sheets/faq/how-many-immigrants-france/}.
+\newblock \\\\Encore une fois, les chiffres des taux d'immigration en France
+  seront très utile.
+
+\bibitem[eur(2015)]{europa-migration-statistics}
+2015.
+\newblock URL
+  \url{http://ec.europa.eu/eurostat/statistics-explained/index.php/Migration_and_migrant_population_statistics}.
+\newblock \\\\L'Union Européene est, naturellement, où la France et
+  l'Angleterre se retrouvent, alors leur site a des chiffres et des
+  justifications, parce qu'ils voient tout. S'ils n'étaient pas là, on
+  n'aurait pas cette richesse d'infos.
+
+\bibitem[gov(2015)]{govuk}
+2015.
+\newblock URL \url{https://www.gov.uk/guidance/living-in-france}.
+\newblock \\\\Je retrouve beaucoup de chiffres sur ce site, particulièrement
+  sur l'immigration au Royaume-Uni, car il est le site des citoyens et du
+  gouvernement anglais.
+
+\bibitem[Le~Moigne(1986)]{immigration-1986}
+Guy Le~Moigne.
+\newblock Immigration in {F}rance.
+\newblock 1986.
+\newblock \\\\Pour ne pas avoir toujours une vue moderne sur l'immigration, je
+  regarderai une livre de 1986, bien avant la vague d'immigration que l'on voit
+  aujourd'hui, pour comparer ce qui a\slash n'a pas changé.
+
+\bibitem[Long(2016)]{original-questionnaire}
+Isabell Long.
+\newblock [{SURVEY}] {I}mmigration to or {E}migration from {F}rance or the
+  {UK}: why and how?, 2016.
+\newblock \\\\Mon sondage aidera (quand je le prépare~!) à confirmer mes
+  pensées et donner un sens à mes recherches. Je mettrai une copie dans le
+  projet à la fin.
+
+\bibitem[Sayad(2004)]{sayad2004suffering}
+Abdelmalek Sayad.
+\newblock \emph{The suffering of the immigrant}.
+\newblock Polity, 2004.
+\newblock \\\\Il me semble que, plus que de l'espoir à commencer une nouvelle
+  vie, l'immigrant souffre aussi---peut-être à cause de manquer leurs
+  familles, de differents cultures. Je lirai ce livre, ou des chapitres, pour
+  en savoir plus, et en faisant cela je ferai attention à ce que mon projet ne
+  se met pas d'un côté ou de l'autre.
+
+\end{thebibliography}
